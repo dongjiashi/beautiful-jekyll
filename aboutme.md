@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self Portrait
-subtitle: from my own perspective...
+subtitle: from my POV...
 tags: [me]
 ---
 
@@ -15,4 +15,4 @@ I worked with my coworkers and the community making vfio-ccw upstreamed in 2017.
 
 I enjoy doing technical work, and I think open source is cool.
 
-**Resume:** You can find my resume at Linkedin [here](https://www.linkedin.com/in/dongjiashi/).
+**Resume:** Available via Linkedin [here](https://www.linkedin.com/in/dongjiashi/).
