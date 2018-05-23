@@ -17,7 +17,7 @@ baseurl: ""
 title: Orange Crane
 
 # Short description of your site
-description: Dong Jia Shi's peronal blog.
+description: Dong Jia Shi's blog to share stuff he cares for.
 
 # --- Navigation bar options --- #
 
@@ -94,7 +94,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -104,7 +104,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-63732526-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -190,6 +190,7 @@ prose:
     - /css
     - /img
     - /js
+    - /backup
   metadata:
     _posts:
       - name: "layout"
