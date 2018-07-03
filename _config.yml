@@ -24,6 +24,7 @@ description: Dong Jia Shi's blog to share stuff he cares for.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Copyright: "copyright"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
